@@ -108,7 +108,7 @@ p{
   margin-top: 1rem;
 }
 
-@media only screen and (max-width: 576px) {
+@media only screen and (max-width: 990px) {
  #home{
    height: 50%;
  }
@@ -131,5 +131,10 @@ p{
 
 #img2-div{
   height: 30%;
+}
+
+#images-bottom-space{
+  height: 10%;
+  width: 100%;
 }
 }
