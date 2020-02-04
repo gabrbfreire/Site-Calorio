@@ -16,8 +16,20 @@ body, html {
   padding: 5%;
 }
 
+#images{
+  padding-top: 2.5%;
+  padding-bottom: 2.5%;
+}
+
+#images-bottom-space{
+  height: 10%;
+  width: 100%;
+}
+
 #footer{
   padding: 5%;
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
 .img1{
@@ -92,6 +104,9 @@ body, html {
   height: 100%;
 }
 
+p{
+  margin-top: 1rem;
+}
 
 @media only screen and (max-width: 576px) {
  #home{
